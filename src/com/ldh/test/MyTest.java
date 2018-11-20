@@ -6,6 +6,6 @@ package com.ldh.test;
  */
 public class MyTest {
     public static void main(String[] args){
-        System.out.println("测试提交git");
+        System.out.println("测试提交到git");
     }
 }
