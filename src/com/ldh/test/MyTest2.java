@@ -11,6 +11,6 @@ public class MyTest2 {
             System.out.println(i);
         }
         long endTime = System.currentTimeMillis();
-        System.out.println("测试耗时:" + (endTime - startTime));
+        System.out.println("输出测试耗时:" + (endTime - startTime));
     }
 }
